@@ -1,0 +1,13 @@
+{
+  "name": "fontello",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfei/fontello.git"
+  },
+  "author": "kfei",
+  "bugs": {
+    "url": "https://github.com/kfei/fontello/issues"
+  },
+  "homepage": "https://github.com/kfei/fontello#readme"
+}
